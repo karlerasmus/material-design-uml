@@ -27,6 +27,9 @@ Separate includes exist for each icon category
 + Social
 + Toggle
 
+Sprite naming follows the convention {category}_{icon name} e.g. device_storage. Spaces are replaced by underscores. Reference the material icon library when searching for a sprite
+
+
 Example use:
 ```
 @startuml
