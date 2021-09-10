@@ -1,0 +1,19 @@
+!$dist = "https://raw.githubusercontent.com/karlerasmus/material-design-uml/master/dist/"
+!include $dist/action_sprites.iuml
+!include $dist/alert_sprites.iuml
+!include $dist/av_sprites.iuml
+!include $dist/communication_sprites.iuml
+!include $dist/content_sprites.iuml
+!include $dist/device_sprites.iuml
+!include $dist/editor_sprites.iuml
+!include $dist/file_sprites.iuml
+!include $dist/hardware_sprites.iuml
+!include $dist/home_sprites.iuml
+!include $dist/image_sprites.iuml
+!include $dist/maps_sprites.iuml
+!include $dist/navigation_sprites.iuml
+!include $dist/notification_sprites.iuml
+!include $dist/places_sprites.iuml
+!include $dist/search_sprites.iuml
+!include $dist/social_sprites.iuml
+!include $dist/toggle_sprites.iuml
