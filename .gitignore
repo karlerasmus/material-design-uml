@@ -142,3 +142,4 @@ cython_debug/
 
 # temp
 tmp/
+tmp/tmp.png
